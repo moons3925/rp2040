@@ -1,0 +1,9 @@
+{
+    "cortex-debug.openocdPath": "C:/DevTools/openocd-win/bin/openocd.exe",
+    "cortex-debug.gdbPath": "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gdb.exe",
+    "rust-analyzer.checkOnSave.allTargets": false,
+    "rust-analyzer.checkOnSave.extraArgs": [
+        "--target",
+        "thumbv7em-none-eabihf"
+    ]
+}
